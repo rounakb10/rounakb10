@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning: Web Development.
 - 📫 How to reach me: [email me.](mailto:rounakbiswas1002@gmail.com)
-- ⚡ I play Rocket League and Valorant in my free time.
 
 My current skills include:
 - Java
