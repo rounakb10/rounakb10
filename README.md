@@ -7,9 +7,9 @@
 My current skills include:
 - Java
 - Flutter
-- HTML
-- JS
+- HTML5
+- Javascript
+- Node.js
+- React.js
 - Python
 - Unity
-
-![Profile views](https://gpvc.arturio.dev/rounakb10)  
