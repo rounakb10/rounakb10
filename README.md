@@ -1,15 +1,13 @@
 ### Hi there 👋, my name is Rounak
-#### I am a Flutter Developer
+#### I am a React Developer
 
-- 🌱 I’m currently learning: Web Development.
 - 📫 How to reach me: [email me.](mailto:rounakbiswas1002@gmail.com)
 
 My current skills include:
 - Java
+- React.js
 - Flutter
 - HTML5
+- CSS
 - Javascript
 - Node.js
-- React.js
-- Python
-- Unity
