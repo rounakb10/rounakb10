@@ -1,13 +1,13 @@
-### Hi there 👋, my name is Rounak
-#### I am a React Developer
+### Hi there 👋, I'm Rounak
+#### I am a Frontend Web Developer
 
 - 📫 How to reach me: [email me.](mailto:rounakbiswas1002@gmail.com)
+- 📖 I am currently learning - NodeJS
 
 My current skills include:
-- Java
 - React.js
+- Java
 - Flutter
 - HTML5
 - CSS
 - Javascript
-- Node.js
